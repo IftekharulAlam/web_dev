@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.first_text {
+    display: flex;
+    flex-direction: row;
+    width: 1500px;
+    height: 300px;
+    margin-bottom: 50px;
+
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+
+}
+
+.first_text .first_text_box {
+
+    margin-left: 20px;
+    font-family: "Rubik",  sans-serif;
+
+
+}
